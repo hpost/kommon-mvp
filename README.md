@@ -1,5 +1,5 @@
 # kommon-mvp
-[![](https://jitpack.io/v/hpost/kommon-mvp.svg)](https://jitpack.io/#hpost/kommon-mvp)
+[![](https://jitpack.io/v/cc.femto/kommon-mvp.svg)](https://jitpack.io/#cc.femto/kommon-mvp)
 
 Commonly used code when implementing MVP in Kotlin.
 
@@ -16,6 +16,6 @@ and:
 
 ```gradle
 dependencies {
-    compile 'com.github.hpost:kommon-mvp:master-SNAPSHOT'
+    compile 'cc.femto:kommon-mvp:0.1'
 }
 ```
